@@ -4,5 +4,6 @@
 #include <stdio.h>
 {
 int din;
+int din1;
 retrun 0;
 }

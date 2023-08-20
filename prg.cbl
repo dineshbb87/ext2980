@@ -5,6 +5,7 @@
 {
 int din;
 int din1;
-int din2
+
+int din3;
 retrun 0;
 }
